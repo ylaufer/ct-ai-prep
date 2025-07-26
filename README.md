@@ -32,17 +32,6 @@ This repo is organized to align 100% with the official CT-AI syllabus (v1.0). Be
 | 11      | AI Lifecycle and Continuous Testing             | Week 5                   |
 | 12      | Using AI for Testing                            | Week 5 & Week 6          |
 
-### 📈 Visual Maps by Chapter (Objectives + Notebooks)
-Each chapter includes a mindmap-style visual that summarizes:
-- Main learning objectives
-- Real-world examples
-- Link to Jupyter notebook
-
-**[👉 Visual Maps Folder](notebooks/_visual-maps)**
-
-For each chapter, the naming follows: `map_chapter_<number>_<topic>.png`
-
----
 
 ### 🔧 Chapter 9 CI/CD Recommendation
 
