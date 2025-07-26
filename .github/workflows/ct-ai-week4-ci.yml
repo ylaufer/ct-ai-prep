@@ -25,4 +25,6 @@ jobs:
 
       - name: Execute Chapter 9 notebook
         run: |
-          jupyter nbconvert --execute --inplace notebooks/week4_ch9_test_env_tools.ipynb
+          jupyter nbconvert --execute --inplace week04_explainability_ethics_review/notebooks/02_explainability_lime.ipynb
+          jupyter nbconvert --execute --inplace week04_explainability_ethics_review/notebooks/03_defect_prediction.ipynb
+
