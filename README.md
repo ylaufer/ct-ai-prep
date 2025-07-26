@@ -33,6 +33,21 @@ This repo is organized to align 100% with the official CT-AI syllabus (v1.0). Be
 | 12      | Using AI for Testing                            | Week 5 & Week 6          |
 
 
+## Visual Maps by Chapter
+
+- [Week 01](docs/maps/week01_map.png)
+- [Week 02](docs/maps/week02_map.png)
+- [Week 03](docs/maps/week03_map.png)
+- [Week 04](docs/maps/week04_map.png)
+- [Week 05](docs/maps/week05_map.png)
+- [Week 06](docs/maps/week06_map.png)
+
+
+## Weekly Notebooks
+
+Each week has a `notebooks/` folder with theory and hands-on exercises.
+
+
 ### 🔧 Chapter 9 CI/CD Recommendation
 
 **Enhancement for Test Environments and Tools:**
